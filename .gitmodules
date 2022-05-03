@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/Endektor/SiteForStudentsGroupBackend
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/delafers/SiteForStudentsGroup_frontend
+[submodule "SiteForStudentsGroupBackend"]
+	path = SiteForStudentsGroupBackend
+	url = https://github.com/Endektor/SiteForStudentsGroupBackend.git
+[submodule "SiteForStudentsGroup_frontend"]
+	path = SiteForStudentsGroup_frontend
+	url = https://github.com/delafers/SiteForStudentsGroup_frontend.git
